@@ -3,7 +3,7 @@
 //老白群专用接口
 
 {
-  "spider": "./bptx.jar",
+  "spider": "./jar/bptx.jar",
   "wallpaper": "https://jpg.wxincai.eu.org",
   "lives": [
     {
