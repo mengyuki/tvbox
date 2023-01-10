@@ -45,6 +45,7 @@
     },
     { "key": "AList","name": "🗂Alist","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/alist1.json" ,"jar": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/alist_spider.jar;md5;5013870b5cce8147c2a877f4da966cf0 "},
     {"key":"T4-ora3","name":"T4ora3","type":4,"api":"http://ora3.myxz.gq:8080/vod?sites=all&ali_token=b823f26580dd447ab7c07079c787125a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"T4🟣3","name":"T4🟣3","type":4,"api":"http://152.70.157.202/vod?sites=all&ali_token=b823f26580dd447ab7c07079c787125a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"T4-ora1","name":"T4ora1","type":4,"api":"http://ora1.myxz.gq:8080/vod?sites=all&ali_token=b823f26580dd447ab7c07079c787125a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"T4本地","name":"T4本地","type":4,"api":"http://lihu.cf:20086/vod?sites=all&ali_token=b823f26580dd447ab7c07079c787125a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"T4本地2","name":"T4本地2","type":4,"api":"http://t4.lihu.cf/vod?sites=all&ali_token=b823f26580dd447ab7c07079c787125a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
