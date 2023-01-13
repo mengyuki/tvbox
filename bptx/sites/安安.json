@@ -9,6 +9,12 @@
          "type_name": "火车",
          "type_id": "火车"
      },{
+         "type_name": "积木火车站",
+         "type_id": "积木火车站"
+     },{
+         "type_name": "绿皮火车",
+         "type_id": "绿皮火车"
+     },{
          "type_name": "高铁",
          "type_id": "高铁"
      },{
@@ -18,8 +24,8 @@
          "type_name": "地铁",
          "type_id": "地铁"
      },{
-         "type_name": "美食",
-         "type_id": "美食"
+         "type_name": "积木地铁",
+         "type_id": "积木地铁"
      },{
          "type_name": "韩风talk",
          "type_id": "韩风talk"
