@@ -9,8 +9,11 @@
          "type_name": "马里奥",
          "type_id": "马里奥"
      },{
-         "type_name": "Mario",
-         "type_id": "Mario"
+         "type_name": "乐高马里奥",
+         "type_id": "乐高马里奥"
+     },{
+         "type_name": "积木马里奥",
+         "type_id": "积木马里奥"
      },{
          "type_name": "火车",
          "type_id": "火车"
