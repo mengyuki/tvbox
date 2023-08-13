@@ -3,7 +3,7 @@
 //老白群专用接口
 
 {
-  "spider": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/bptx.jar",
+  "spider": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/bptx.jar",
   "wallpaper": "https://jpg.wxincai.eu.org",
   "lives": [
     {
@@ -12,7 +12,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/live.txt"
+            "proxy://do=live&type=txt&ext=https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/live.txt"
           ]
         }
       ]
@@ -43,7 +43,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    { "key": "AList","name": "🗂Alist","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/alist1.json" ,"jar": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/alist_spider.jar;md5;5013870b5cce8147c2a877f4da966cf0 "},
+    { "key": "AList","name": "🗂Alist","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/alist1.json" ,"jar": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/alist_spider.jar;md5;5013870b5cce8147c2a877f4da966cf0 "},
     {"key":"T4-ora3","name":"T4ora3","type":4,"api":"http://ora3.myxz.gq:8080/vod?sites=all&ali_token=b823f26580dd447ab7c07079c787125a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"T4🟣3","name":"T4🟣3","type":4,"api":"http://152.70.157.202/vod?sites=all&ali_token=b823f26580dd447ab7c07079c787125a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"T4-ora1","name":"T4ora1","type":4,"api":"http://ora1.myxz.gq:8080/vod?sites=all&ali_token=b823f26580dd447ab7c07079c787125a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
@@ -111,13 +111,13 @@
         "少儿",
         "其他片"
       ]},
-      {"key":"安安","name":"安安（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/安安.json","jar":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
-      {"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/演唱会.json","jar":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
-      {"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/戏曲.json","jar":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
-      {"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/xue.json","jar":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
-      {"key":"教程","name":"教程（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/教程.json","jar":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
-      {"key":"EXCEL教程","name":"EXCEL教程（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/Excel教程.json","jar":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
-      {"key":"空中课堂","name":"空中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/空中课堂.json","jar":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
+      {"key":"安安","name":"安安（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/安安.json","jar":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
+      {"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/演唱会.json","jar":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
+      {"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/戏曲.json","jar":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
+      {"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/xue.json","jar":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
+      {"key":"教程","name":"教程（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/教程.json","jar":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
+      {"key":"EXCEL教程","name":"EXCEL教程（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/Excel教程.json","jar":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
+      {"key":"空中课堂","name":"空中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/sites/空中课堂.json","jar":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/jar/jar0828.jar"},
       {
       "key": "py_bilibili",
       "name": "🅱️哔哩大全1-py",
@@ -126,7 +126,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/plugin/py_bilibili.py"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/plugin/py_bilibili.py"
     },{
       "key": "csp_Bili",
       "name": "🅱️哔哩大全2",
@@ -135,7 +135,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/bilibili.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/bilibili.json"
     },{
       "key": "py_cctv",
       "name": "🇨🇳央视96-py",
@@ -144,7 +144,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/plugin/py_cctv.py"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/plugin/py_cctv.py"
     },{
       "key": "py_cctv_full",
       "name": "🇨🇳央视大全-py",
@@ -153,7 +153,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/plugin/py_cctv_full.py"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/plugin/py_cctv_full.py"
     },{
       "key": "py_bilibili_sx",
       "name": "🙏圣贤教育-py",
@@ -162,7 +162,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/plugin/py_bilibili_sx.py"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/plugin/py_bilibili_sx.py"
     },{
       "key": "csp_Biliych",
       "name": "🅱️看演唱会",
@@ -171,7 +171,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/Biliych.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/Biliych.json"
     },{
       "key": "csp_XYQBiu_酷奇",
       "name": "🎸酷奇MV",
@@ -180,7 +180,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/酷奇MV.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/酷奇MV.json"
     },{
       "key": "csp_XYQBiu_虎牙直播",
       "name": "🐯虎牙直播",
@@ -189,7 +189,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/虎牙直播.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/虎牙直播.json"
     },{
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼直播",
@@ -198,7 +198,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/斗鱼直播.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/斗鱼直播.json"
     },{
       "key": "csp_XYQBiu_聚合短视频",
       "name": "📽️短视频聚合",
@@ -207,7 +207,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/分享短视频.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/分享短视频.json"
     },{
       "key": "csp_Alist1",
       "name": "📀Alist网盘",
@@ -216,7 +216,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/alist.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/alist.json"
     },{
       "key": "csp_kuaikan",
       "name": "🥁快看┃SP",
@@ -234,7 +234,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/nmys.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/nmys.json"
     },{
 			"key": "AppTT",
 			"name": "🐰tutu┃SP",
@@ -244,7 +244,7 @@
 			"quickSearch": "1",
 			"filterable": "1",
 			"ext": "110c922de7d69804467fb83d3bb664b5",
-			"jar": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/cs.jar;md5;e0924826e82aa56b850549b520bfd67f"
+			"jar": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/cs.jar;md5;e0924826e82aa56b850549b520bfd67f"
 		},{
       "key": "csp_Lgyy",
       "name": "🌀蓝光┃SP",
@@ -286,7 +286,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/token.txt"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/token.txt"
     },{
       "key": "csp_Bd",
       "name": "🎄bidi┃SP",
@@ -296,7 +296,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {"key":"Czsapp","name":"🍣厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/cs.jar;md5;e0924826e82aa56b850549b520bfd67f"}, 
+   {"key":"Czsapp","name":"🍣厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/cs.jar;md5;e0924826e82aa56b850549b520bfd67f"}, 
     {
       "key": "csp_Ysgc",
       "name": "🏭工厂┃SP",
@@ -453,7 +453,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/310直播.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/310直播.json"
     },
     {
       "key": "csp_XPath_鹅直播",
@@ -463,7 +463,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/企鹅直播.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/企鹅直播.json"
     },
     {
       "key": "csp_xBPQ_zf",
@@ -473,7 +473,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/抓饭体育.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/抓饭体育.json"
     },
 
     {
@@ -493,7 +493,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/幼儿乐园.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/幼儿乐园.json"
     },
     {
       "key": "少儿教育",
@@ -503,7 +503,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/少儿教育.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -513,7 +513,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/小学课堂.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -523,7 +523,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/初中课堂.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -533,7 +533,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/高中课堂.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/高中课堂.json"
     },
     {
       "key": "Yisou",
@@ -598,7 +598,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/不卡.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/不卡.json"
     },
     {
       "key": "csp_xBPQ_98",
@@ -608,7 +608,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/98影院.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/98影院.json"
     },
     {
       "key": "csp_xBPQ_极品",
@@ -618,7 +618,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/极品.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/极品.json"
     },
     {
       "key": "csp_xBPQ_cs",
@@ -628,7 +628,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/freeok.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/freeok.json"
     },
     {
       "key": "csp_xBPQ_爱看",
@@ -638,7 +638,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/爱看.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/爱看.json"
     },
     {
       "key": "csp_xBPQ_爱酷",
@@ -648,7 +648,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/爱酷.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/爱酷.json"
     },
     {
       "key": "csp_xBPQ_鸭奈飞",
@@ -658,7 +658,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/鸭奈飞.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/鸭奈飞.json"
     },
     {
       "key": "csp_xBPQ_干饭",
@@ -668,7 +668,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/干饭.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/干饭.json"
     },
     {
       "key": "csp_xBPQ_番茄",
@@ -678,7 +678,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/番茄.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/番茄.json"
     },
     {
       "key": "csp_xBPQ_瓜皮TV",
@@ -688,7 +688,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/瓜皮.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/瓜皮.json"
     },
     {
       "key": "csp_xBPQ_子子",
@@ -698,7 +698,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/子子影视.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/子子影视.json"
     },
     {
       "key": "csp_XYQBiu_万能影院",
@@ -708,7 +708,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/万能影院.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/万能影院.json"
     },
     {
       "key": "csp_app_gotka",
@@ -749,7 +749,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/剧白白-蓝光.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/剧白白-蓝光.json"
     },
     {
       "key": "csp_xbb_voflix",
@@ -759,7 +759,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/voflix.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/voflix.json"
     },
     {
       "key": "csp_xbb_金眼影视",
@@ -769,7 +769,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/金眼影视.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/金眼影视.json"
     },
     {
       "key": "csp_xbb_奈菲影院",
@@ -779,7 +779,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/奈菲影院.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/奈菲影院.json"
     },
     {
       "key": "csp_xbb_口袋影院",
@@ -789,7 +789,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/口袋影院.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/口袋影院.json"
     },
     {
       "key": "csp_xbb_VIP1280",
@@ -799,7 +799,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/VIP1280.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/VIP1280.json"
     },
     {
       "key": "csp_xbb_骚火VIP",
@@ -809,7 +809,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/shdy.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/shdy.json"
     },
     {
       "key": "csp_xbb_速搜影视",
@@ -819,7 +819,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/速搜影视.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/速搜影视.json"
     },
     {
       "key": "csp_xbb_视中心影院",
@@ -829,7 +829,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/视中心影院.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/视中心影院.json"
     },
     {
       "key": "csp_xbb_达达龟",
@@ -839,7 +839,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/达达龟.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/达达龟.json"
     },
     {
       "key": "csp_xbb_稀饭影视",
@@ -849,7 +849,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/稀饭影视.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/稀饭影视.json"
     },
     {
       "key": "csp_xbb_维奇动漫",
@@ -859,15 +859,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/维奇动漫.json"
+      "ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/维奇动漫.json"
     },
-{"key":"csp_xp_doujiao","name":"🍫豆角影视","type": 3,"api": "csp_XPath3","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/doujiao.json"},
-{"key":"csp_xp_dmw","name":"🍣动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/dmw.json"},
-{"key":"csp_xp_gongreng","name":"🍟工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/gongreng.json"},
+{"key":"csp_xp_doujiao","name":"🍫豆角影视","type": 3,"api": "csp_XPath3","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/doujiao.json"},
+{"key":"csp_xp_dmw","name":"🍣动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/dmw.json"},
+{"key":"csp_xp_gongreng","name":"🍟工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/gongreng.json"},
 
-{"key":"csp_xp_6d","name":"🍰六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/6d.json"},
-{"key":"csp_xp_348z","name":"🌭348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/348z.json"},
-{"key":"csp_xp_yingba","name":"🥝电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--github-8e4jw671b.mengyu.ml/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/yingba.json"}
+{"key":"csp_xp_6d","name":"🍰六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/6d.json"},
+{"key":"csp_xp_348z","name":"🌭348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/348z.json"},
+{"key":"csp_xp_yingba","name":"🥝电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://js.lihu.cf/https://raw.githubusercontent.com/mengyuki/tvbox/main/bptx/json/yingba.json"}
 
 ],
 
